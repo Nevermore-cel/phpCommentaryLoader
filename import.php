@@ -85,7 +85,7 @@ function importData(): void {
         echo "\nЗагружено $postsCount записей и $commentsCount комментариев\n";
 
     } catch (Exception $e) {
-        if ($pdo && $pdo->inTransaction()) { //  Добавлена проверка, что транзакция была начата.
+        if ($pdo && $pdo->inTransaction()) { //Проверка, что транзакция была начата.
             $pdo->rollBack();
         }
         echo "Транзакция уже закрыта " . $e->getMessage() . "\n";
