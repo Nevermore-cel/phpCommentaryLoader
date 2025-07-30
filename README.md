@@ -56,7 +56,7 @@
 ### Клонирование репозитория:
      ```bash
     git clone https://github.com/Nevermore-cel/phpCommentaryLoader.git
-    cd Simple-shop-with-Laravel 
+    cd phpCommentaryLoader
     ```
 
 ### Настройка базы данных
