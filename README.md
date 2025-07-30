@@ -54,10 +54,10 @@
 *   **PHP Extensions:** `pdo`, `pdo_mysql`, `curl` (обычно включены по умолчанию).
 
 ### Клонирование репозитория:
-     ```bash
+   ```bash
     git clone https://github.com/Nevermore-cel/phpCommentaryLoader.git
     cd phpCommentaryLoader
-    ```
+   ```
 
 ### Настройка базы данных
 
