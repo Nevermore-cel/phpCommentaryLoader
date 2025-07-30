@@ -55,7 +55,7 @@
 
 ### Клонирование репозитория:
      ```bash
-    git clone https://github.com/Nevermore-cel/Simple-shop-with-Laravel.git
+    git clone https://github.com/Nevermore-cel/phpCommentaryLoader.git
     cd Simple-shop-with-Laravel 
     ```
 
